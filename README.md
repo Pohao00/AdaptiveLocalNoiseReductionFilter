@@ -1,6 +1,6 @@
-# Adaptive-local-noise-reduction-filter
+# Adaptive Local Noise Reduction Filter
 
-This displays how to sprinkle Gaussian noice and use filter to reduce noice.
+This displays how to sprinkle Gaussian noise and use filter to reduce noise.
 
 ## Installation
 
